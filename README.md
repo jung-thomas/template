@@ -1,10 +1,15 @@
-# template
-Template Repository
+# Title
 
-## Support
-This project is provided "as-is": there is no guarantee that raised issues will be answered or addressed in future releases.
+## Description
+
+## Requirements
+
+## Download and Installation
+
+## Known Issues
+
+## How to obtain support
 
 ## License
-
-Copyright (c) 2019 SAP SE or an SAP affiliate company. All rights reserved.
-This project is licensed under the Apache Software License, Version 2.0 except as noted otherwise in the [LICENSE](LICENSE) file.
+Copyright (c) 2020 SAP SE or an SAP affiliate company. All rights reserved. 
+This file is licensed under the Apache Software License, version 2.0 except as noted otherwise in the [LICENSE](LICENSE) file.
